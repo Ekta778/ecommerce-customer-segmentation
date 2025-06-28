@@ -6,7 +6,7 @@ A sophisticated web application that performs advanced K-Means clustering analys
 
 ## 🚀 Live Demo
 
-**[View Live Application](https://astonishing-narwhal-db0647.netlify.app)**
+**[View Live Application](https://customerssegmentation.netlify.app/)**
 
 ## ✨ Features
 
