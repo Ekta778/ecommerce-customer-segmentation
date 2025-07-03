@@ -198,17 +198,7 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](../../issues) page for existing solutions
-2. Create a new issue with detailed information about your problem
-3. Include your CSV file structure and any error messages
 
 ## 🔮 Roadmap
 
@@ -225,7 +215,3 @@ If you encounter any issues or have questions:
 - **Processing time**: Typically under 5 seconds for 10,000 customers
 - **Browser compatibility**: Modern browsers (Chrome, Firefox, Safari, Edge)
 - **Mobile support**: Fully responsive design for mobile devices
-
----
-
-**Built with ❤️ using React, TypeScript, and modern web technologies**
